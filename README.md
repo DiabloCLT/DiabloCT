@@ -18,14 +18,6 @@ Backend developer focused on software engineering, systems and cybersecurity.
 
 ## featured repositories
 
-### ResolveJá
-
-SaaS focused on helping users find practical solutions to everyday problems.
-
-### RideFlow
-
-Backend application built with Java, Spring Boot, PostgreSQL, Redis, WebSocket and JWT.
-
 ## statistics
 
 <div align="center">
